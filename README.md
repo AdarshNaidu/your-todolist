@@ -1,7 +1,7 @@
 A simple todo-list website for daily use
 ============================
 ## This website is hosted at  
-[glitch](https://your-todolist.glitch.me/)
+[glitch](https://your-todolist.glitch.me/)  
 [github](https://adarshnaidu.github.io/your-todolist/)
 
 ## Features
