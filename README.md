@@ -1,6 +1,6 @@
 A simple todo-list website for daily use
 ============================
-This website is hosted [here](https://adarshnaidu.tk)
+This website is hosted [here](https://your-todolist.glitch.me/)
 
 ## Features
 * Can be used in phone
